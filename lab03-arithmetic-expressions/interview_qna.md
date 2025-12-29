@@ -16,7 +16,7 @@
    - Division that returns only the integer part of the result.
 
 6. What was the result of 20 // 6?
-   - 3.
+   -  3.
 
 7. Why does Python return a float for division?
    - To preserve precision.
