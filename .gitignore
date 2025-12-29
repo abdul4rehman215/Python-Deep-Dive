@@ -1,24 +1,42 @@
-# Python cache
+# 🐍 Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
-# Virtual environments
+# 🧪 Virtual environments
 venv/
-env/
-.myenv/
-myenv/
+.env/
+.envrc
 
-# OS files
+# 📦 Package files
+*.egg-info/
+dist/
+build/
+
+# 🧰 Logs
+*.log
+
+# 🖥️ OS files
 .DS_Store
 Thumbs.db
 
-# Editor configs
+# 🧪 Test artifacts
+.coverage
+htmlcov/
+
+# 🔐 Secrets
+.env
+*.key
+*.pem
+
+# 📊 Optional generated outputs (keep output.txt tracked)
+*.sqlite
+*.db
+
+# 📈 Jupyter
+.ipynb_checkpoints/
+
+# 🔧 IDEs
 .vscode/
 .idea/
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
