@@ -1,0 +1,5 @@
+The Toyota Corolla is now driving.
+The Honda Civic is now driving.
+Car 1 brand: Toyota
+Car 2 brand: Honda
+Number of wheels: 4
