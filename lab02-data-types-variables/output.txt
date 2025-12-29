@@ -1,0 +1,10 @@
+Name: John Doe Type: <class 'str'>
+Age: 25 Type: <class 'int'>
+Is Student: True Type: <class 'bool'>
+Height: 175.5 Type: <class 'float'>
+Result: 20.5 Type: <class 'float'>
+Age as string: 25 Type: <class 'str'>
+Number: 100 Type: <class 'int'>
+Customer Name: Alice Johnson Type: <class 'str'>
+Customer Age: 30 Type: <class 'int'>
+Customer Membership Status: True Type: <class 'bool'>
