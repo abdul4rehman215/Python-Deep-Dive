@@ -1,0 +1,13 @@
+$ python3 argparse_example.py --name Alice --age 25
+Name: Alice
+Age: 25
+
+$ python3 argparse_example.py --help
+usage: argparse_example.py [-h] --name NAME --age AGE
+
+User Information CLI Tool
+
+optional arguments:
+  -h, --help   show this help message and exit
+  --name NAME  User's name
+  --age AGE    User's age
