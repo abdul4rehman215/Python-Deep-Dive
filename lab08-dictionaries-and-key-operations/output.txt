@@ -1,0 +1,8 @@
+{'name': 'Alice', 'age': 30, 'city': 'New York'}
+User's Name: Alice
+Updated User Profile: {'name': 'Alice', 'age': 31, 'city': 'New York'}
+Profile after removing city: {'name': 'Alice', 'age': 31}
+name: Alice
+age: 31
+Key: name
+Key: age
