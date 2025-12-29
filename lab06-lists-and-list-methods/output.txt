@@ -1,0 +1,7 @@
+Initial list of fruits: ['apple', 'banana', 'cherry']
+List after appending 'orange': ['apple', 'banana', 'cherry', 'orange']
+List after removing 'banana': ['apple', 'cherry', 'orange']
+Sorted list of fruits: ['apple', 'cherry', 'orange']
+Fruit: apple
+Fruit: cherry
+Fruit: orange
