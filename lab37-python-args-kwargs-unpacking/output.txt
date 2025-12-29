@@ -1,0 +1,7 @@
+Sum using *args: 15
+name: Alice
+age: 30
+city: New York
+Sum using unpacked list: 10
+name: John
+age: 25
