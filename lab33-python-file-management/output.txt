@@ -1,0 +1,6 @@
+Files found: ['file1.txt', 'file2.log']
+Files copied and renamed successfully.
+
+$ ls backup_folder
+file1_backup.txt
+file2_backup.log
