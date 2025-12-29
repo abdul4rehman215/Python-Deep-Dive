@@ -1,0 +1,10 @@
+Plot generated successfully.
+
+A graphical window opens displaying:
+- A line plot
+- X-axis values from 0 to 5
+- Y-axis values showing squared numbers
+- Title: "Simple Line Plot"
+
+(Note: In headless/cloud environments, the plot may not render visually,
+but the script executes without errors.)
