@@ -1,0 +1,12 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "department": "Engineering",
+    "skills": [
+        "Python",
+        "Django",
+        "Machine Learning"
+    ]
+}
+
+{'name': 'John Doe', 'age': 30, 'department': 'Engineering', 'skills': ['Python', 'Django', 'Machine Learning']}
