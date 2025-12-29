@@ -1,0 +1,13 @@
+Scenario 1:
+Enter a number: abc
+Error: Input is not a valid number.
+
+Scenario 2:
+Enter a number: 0
+The number is 0.
+Error: Division by zero is not allowed.
+
+Scenario 3:
+Enter a number: 2
+The number is 2.
+Result is: 5.0
