@@ -1,0 +1,5 @@
+Enter a number: -7
+Negative
+
+Enter your score: 85
+Grade: B
