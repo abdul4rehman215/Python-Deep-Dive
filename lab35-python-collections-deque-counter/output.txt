@@ -1,0 +1,4 @@
+Popped from the right: task2
+Popped from the left: task0
+Word Count: Counter({'apple': 3, 'orange': 2, 'banana': 1})
+Most Common Words: [('apple', 3), ('orange', 2)]
