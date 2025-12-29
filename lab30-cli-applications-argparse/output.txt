@@ -1,0 +1,14 @@
+$ python3 greet.py
+Hello, Stranger!
+
+$ python3 greet.py --name Alice
+Hello, Alice!
+
+$ python3 greet.py --help
+usage: greet.py [-h] [--name NAME]
+
+A simple greeting CLI application.
+
+options:
+  -h, --help   show this help message and exit
+  --name NAME Name of the person to greet
