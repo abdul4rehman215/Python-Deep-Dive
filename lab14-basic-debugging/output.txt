@@ -1,0 +1,14 @@
+Print Debugging Output:
+DEBUG: 5 added → total = 5
+DEBUG: 10 added → total = 15
+DEBUG: 15 added → total = 30
+Final Result: 30
+
+pdb Debugging Session:
+> pdb_debugging.py(5)divide_numbers()
+-> return a / b
+(Pdb) print(a, b)
+10 0
+(Pdb) n
+ZeroDivisionError: division by zero
+(Pdb) q
