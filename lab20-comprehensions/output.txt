@@ -1,0 +1,4 @@
+Squares: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+Word Lengths: {'apple': 5, 'banana': 6, 'cherry': 6, 'date': 4}
+Loop Result: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+Comprehension Result: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
