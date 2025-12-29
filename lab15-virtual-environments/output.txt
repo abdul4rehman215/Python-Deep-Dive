@@ -1,0 +1,24 @@
+Virtual Environment Creation:
+(no output — environment created successfully)
+
+Activation:
+(myenv) user@ubuntu:~/my_project$
+
+Package Installation:
+Collecting requests
+Downloading requests-2.32.3-py3-none-any.whl
+Installing collected packages: requests, urllib3, certifi, idna, charset-normalizer
+Successfully installed requests-2.32.3
+
+Installed Packages:
+Package             Version
+------------------- ---------
+certifi             2024.8.30
+charset-normalizer  3.4.0
+idna                3.7
+pip                 24.0
+requests            2.32.3
+urllib3             2.2.3
+
+Deactivation:
+user@ubuntu:~/my_project$
