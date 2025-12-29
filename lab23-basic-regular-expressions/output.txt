@@ -1,0 +1,5 @@
+Matches found: ['2021', '2019', '2020']
+Replaced String: The rainfall XXXX was greater than XXXX and XXXX combined.
+Date Matches: [('1990', '08', '15'), ('2020', '01', '01')]
+Year: 1990 Month: 08 Day: 15
+Year: 2020 Month: 01 Day: 01
