@@ -1,0 +1,3 @@
+Recursive factorial: 120
+Iterative factorial: 120
+Tail recursive factorial: 120
