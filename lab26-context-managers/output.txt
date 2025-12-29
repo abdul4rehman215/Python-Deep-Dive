@@ -1,0 +1,4 @@
+Entering the context and allocating resources.
+Running within the context block.
+Exiting the context and cleaning up resources.
+Hello, World!
