@@ -1,0 +1,2 @@
+2025-01-02 11:10:34 - INFO - Starting CLI Data Processor
+2025-01-02 11:10:34 - INFO - Data successfully saved to output.json
