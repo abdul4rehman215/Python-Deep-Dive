@@ -1,0 +1,5 @@
+{
+    "current_user_url": "https://api.github.com/user",
+    "repository_search_url": "https://api.github.com/search/repositories?q={query}",
+    "emojis_url": "https://api.github.com/emojis"
+}
