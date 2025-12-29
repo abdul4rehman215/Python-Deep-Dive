@@ -1,0 +1,19 @@
+flake8 example.py
+example.py:1:1 E302 expected 2 blank lines, found 1
+example.py:1:5 E231 missing whitespace after ':'
+example.py:2:2 E111 indentation is not a multiple of 4
+example.py:2:8 E201 whitespace after '{'
+example.py:3:2 E111 indentation is not a multiple of 4
+example.py:3:5 E225 missing whitespace around operator
+example.py:3:28 E701 multiple statements on one line (colon)
+
+black example.py
+reformatted example.py
+
+Final formatted code:
+def example_function():
+    x = {"key": 42, "another_key": 23}
+    if x["key"] > 0:
+        print("Positive number")
+    else:
+        print("Zero or Negative")
