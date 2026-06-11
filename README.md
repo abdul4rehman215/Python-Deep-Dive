@@ -263,6 +263,14 @@ By completing all 39 labs, you will be able to:
 
 ---
 
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_throwback-python-socskills-activity-7413964943756021760-aeKv?)
+
+---
+
 ## 🏁 Final Note
 
 This repository is a **progressive Python journey** — each lab builds on the previous one.
