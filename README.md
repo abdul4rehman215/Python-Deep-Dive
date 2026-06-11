@@ -19,8 +19,6 @@ This repository is designed for:
 - 🎯 Interview preparation with real-world scenarios
 - 🤖 Practical scripting & automation understanding
 
----
-
 <table width="100%">
 <tr>
 
